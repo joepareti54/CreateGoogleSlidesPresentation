@@ -13,4 +13,4 @@ https://stackoverflow.com/questions/60160794/getting-the-provided-image-is-in-an
 
 https://stackoverflow.com/questions/56099575/how-to-fix-403-insufficient-authentication-scopes-when-uploading-file-python
 
-When this program is run for a new application/slides-deck you MUST create ne w json credentials. See here https://console.cloud.google.com/apis/credentials?folder=&organizationId=&project=quickstart-1613196175693 On April 16 2021 I ran a couple of failed attempts, presumably the project name must be quickstart 
+When this program is run for a new application/slides-deck you MUST create new json credentials. See here https://console.cloud.google.com/apis/credentials?folder=&organizationId=&project=quickstart-1613196175693 On April 16 2021 I ran a couple of failed attempts, presumably the project name must be quickstart 
