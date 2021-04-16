@@ -12,3 +12,5 @@ For the implementation, besides the API, the following guidelines have been used
 https://stackoverflow.com/questions/60160794/getting-the-provided-image-is-in-an-unsupported-format-error-when-trying-to-in
 
 https://stackoverflow.com/questions/56099575/how-to-fix-403-insufficient-authentication-scopes-when-uploading-file-python
+
+When this program is run for a new application/slides-deck you MUST create ne w json credentials. See here https://console.cloud.google.com/apis/credentials?folder=&organizationId=&project=quickstart-1613196175693 On April 16 2021 I ran a couple of failed attempts, presumably the project name must be quickstart 
