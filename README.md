@@ -5,7 +5,7 @@ This python programs creates a google slide presentation using the API https://d
 
 The program must be run in the same directory where the data files are stored. Next, the file 'files' is created as follows:
 
-ls -l *jpg | awk '{print "./" $9}' | sort > files
+ls -l *jpg | awk '{print "./" $9}' | sort -r > files
 
 For the implementation, besides the API, the following guidelines have been used: 
 
